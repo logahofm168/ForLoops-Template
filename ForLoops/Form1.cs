@@ -38,7 +38,7 @@ namespace ForLoops
 
 
             ///5. Create a loop that displays all leap years inclusive between 
-            ///1990 and 2010. The output should be: 1992 1998 2000 2004 2008
+            ///1990 and 2010. The output should be: 1992 1996 2000 2004 2008
 
 
 
